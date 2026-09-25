@@ -16,8 +16,6 @@ namespace WelcomeApp
             r = n1 + n2;
             Console.WriteLine($"The sum is {r}");
 
-        
-
         }
     }
 }
